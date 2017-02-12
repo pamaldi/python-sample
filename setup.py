@@ -15,7 +15,7 @@ setup(
     long_description=readme,
     author='Pasquale Grimaldi',
     author_email='pamaldi@gmail.com',
-    url='https://github.com/kennethreitz/samplemod',
+    url='https://github.com/pamaldi/python-sample',
     license=license,
     test_suite='tests',
     packages=find_packages(exclude=('tests', 'docs'))
